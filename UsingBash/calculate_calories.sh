@@ -1,3 +1,4 @@
+#!/bin/bash
 input_file="/Users/sangeetasingh/Code/sangeetaS/UsingBash/input.txt"
 
 # Function to calculate the total Calories carried by an Elf
